@@ -16,7 +16,7 @@ Please add your variation below in the following format:
 ```md
 - **Title** _by Author_ ([Open](link-to-sketch)) <br>
   Description (optional)
-  <!-- Screenshot / GIF / Video -->
+  <!-- Screenshot / GIF / Video (add image files in `variations/`) -->
   <img src="variations/your-variation-author.png" alt="Your Variation" width="300px">
 ```
 
