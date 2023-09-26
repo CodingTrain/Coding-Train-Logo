@@ -20,7 +20,7 @@ Please add your variation below in the following format:
   <img src="variations/your-variation-author.png" alt="Your Variation" width="300px">
 ```
 
-## Contributions
+## Variations
 
 - **Animated Logo** _by Dipam Sen_ ([Open](https://editor.p5js.org/funplanet/sketches/8zZKqiyV4)) <br>
   Animated the path of the logo by interpolating it using a cubic easing function.
