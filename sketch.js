@@ -44,4 +44,7 @@ function draw() {
   line(56.632, 44.613, 56.632, 53.135);
 
   line(68.005, 59.075, 55.308, 59.075);
+
+  //Added since sketch does not need to be looped. 
+  noLoop();
 }
