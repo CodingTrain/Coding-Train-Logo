@@ -15,13 +15,15 @@ Please add your variation below in the following format:
 
 ```md
 - **Title** _by Author_
+
   Description (optional)
   <!-- Screenshot / GIF / Video -->
-  <p align="center"><img src="variations/your-variation-author.png" alt="Your Variation" width="400px"></p>
+  <img src="variations/your-variation-author.png" alt="Your Variation" width="300px">
 ```
 
 ## Contributions
 
 - **Animated Logo** _by Dipam Sen_
+
   Animated the path of the logo by interpolating between it using a cubic easing function.
-  <p align="center"><img src="variations/animated-logo-dipamsen.gif" alt="Animated Logo" width="400px"></p>
+  <img src="variations/animated-logo-dipamsen.gif" alt="Animated Logo" width="300px">
