@@ -14,8 +14,7 @@ Using the hard-coded data points in the [p5 sketch](./sketch/), you can create y
 Please add your variation below in the following format:
 
 ```md
-- **Title** _by Author_
-
+- **Title** _by Author_ ([Open](link-to-sketch)) <br>
   Description (optional)
   <!-- Screenshot / GIF / Video -->
   <img src="variations/your-variation-author.png" alt="Your Variation" width="300px">
@@ -23,7 +22,6 @@ Please add your variation below in the following format:
 
 ## Contributions
 
-- **Animated Logo** _by Dipam Sen_
-
-  Animated the path of the logo by interpolating between it using a cubic easing function.
+- **Animated Logo** _by Dipam Sen_ ([Open](https://editor.p5js.org/funplanet/sketches/8zZKqiyV4)) <br>
+  Animated the path of the logo by interpolating it using a cubic easing function.
   <img src="variations/animated-logo-dipamsen.gif" alt="Animated Logo" width="300px">
