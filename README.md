@@ -14,16 +14,16 @@ This repo contains the p5.js sketch to generate the Coding Train Logo.
    Please add your variation below in the following format:
 
    ```md
-   - **Title** _by Author_ ([Open](link-to-sketch)) <br>
+   - [**Title**](link-to-sketch) _by Author_ <br>
      Description (optional)
-     <!-- Screenshot / GIF / Video (add image files in `variations/`) -->
+     <!-- Screenshot / GIF / Video (add image files in `variations/`, optional) -->
      <img src="variations/your-variation-author.png" alt="Your Variation" width="300px">
    ```
 
 2. Port the sketch to another language or framework! You can add your port inside a directory `ports/[language]/` where `[language]` is the name of the language or framework (eg. `processing`), and add it to the list below.
 
    ```md
-   - **Language** _by Author_ ([Open](./ports/[lang]))
+   - [**Language**](./ports/[language]) _by Author_
    ```
 
 ## Variations
@@ -33,3 +33,6 @@ This repo contains the p5.js sketch to generate the Coding Train Logo.
   <img src="variations/animated-logo-dipamsen.gif" alt="Animated Logo" width="300px">
 
 ## Ports
+
+- [**Processing**](./ports/processing/) _by Kai Tabuchi_
+- [**Processing.py**](./ports/processingpy/) _by Kai Tabuchi_
