@@ -9,19 +9,27 @@ This repo contains the p5.js sketch to generate the Coding Train Logo.
 
 ## Contributing
 
-Using the hard-coded data points in the [p5 sketch](./sketch/), you can create your own variation of the Coding Train Logo and submit a pull request to this repo. Some ideas for variations include color, animation, and sound. You may also port the sketch in another language. For inspiration, check out all other contributions below.
+1. Using the hard-coded data points in the [p5 sketch](./sketch/), you can create your own variation of the Coding Train Logo and submit a pull request to this repo. Some ideas for variations include color, animation, and sound. For inspiration, check out all other contributions below.
 
-Please add your variation below in the following format:
+   Please add your variation below in the following format:
 
-```md
-- **Title** _by Author_ ([Open](link-to-sketch)) <br>
-  Description (optional)
-  <!-- Screenshot / GIF / Video (add image files in `variations/`) -->
-  <img src="variations/your-variation-author.png" alt="Your Variation" width="300px">
-```
+   ```md
+   - **Title** _by Author_ ([Open](link-to-sketch)) <br>
+     Description (optional)
+     <!-- Screenshot / GIF / Video (add image files in `variations/`) -->
+     <img src="variations/your-variation-author.png" alt="Your Variation" width="300px">
+   ```
+
+2. Port the sketch to another language or framework! You can add your port inside a directory `ports/[language]/` where `[language]` is the name of the language or framework (eg. `processing`), and add it to the list below.
+
+   ```md
+   - **Language** _by Author_ ([Open](./ports/[lang]))
+   ```
 
 ## Variations
 
 - **Animated Logo** _by Dipam Sen_ ([Open](https://editor.p5js.org/funplanet/sketches/8zZKqiyV4)) <br>
   Animated the path of the logo by interpolating it using a cubic easing function.
   <img src="variations/animated-logo-dipamsen.gif" alt="Animated Logo" width="300px">
+
+## Ports
