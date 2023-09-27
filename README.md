@@ -28,7 +28,7 @@ This repo contains the p5.js sketch to generate the Coding Train Logo.
 
 ## Variations
 
-- **Animated Logo** _by Dipam Sen_ ([Open](https://editor.p5js.org/funplanet/sketches/8zZKqiyV4)) <br>
+- [**Animated Logo**](https://editor.p5js.org/funplanet/sketches/8zZKqiyV4) _by Dipam Sen_ <br>
   Animated the path of the logo by interpolating it using a cubic easing function.
   <img src="variations/animated-logo-dipamsen.gif" alt="Animated Logo" width="300px">
 
