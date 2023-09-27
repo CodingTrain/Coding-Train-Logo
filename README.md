@@ -3,13 +3,17 @@
 <p align="center"><img src="logo.png" alt="The Coding Train Logo" width="300px"></p>
 
 - [p5.js Sketch](https://editor.p5js.org/codingtrain/sketches/p599bQ3sa)
-- [Live Stream](https://www.youtube.com/watch?v=d6RXcetnl20)
+- [Live Stream](https://www.youtube.com/watch?v=d6RXcetnl20&t=4549s)
+- [Hacktoberfest](https://hacktoberfest.com/participation/)
+- [Discord](https://thecodingtrain.com/discord)
 
-This repo contains the p5.js sketch to generate the Coding Train Logo.
+This repo contains the p5.js sketch to generate the Coding Train Logo and variations submitted by the Coding Train community.
 
 ## Contributing
 
-1. Using the hard-coded data points in the [p5 sketch](./sketch/), you can create your own variation of the Coding Train Logo and submit a pull request to this repo. Some ideas for variations include color, animation, and sound. For inspiration, check out all other contributions below.
+1. Using the hard-coded data points in the [p5 sketch](./sketch/), you can create your own variation of the Coding Train Logo and submit a pull request to this repo. Some ideas for variations include porting to anther language, changing the color, adding animation and sound. For inspiration, check out all the other contributions below. This repository has the "Hacktoberfest" label.  If you would like your contribution to count towards Hacktoberfest, please either wait until October 1 to make your pull request or indicate that you are participating in Hacktoberfest in the pull request.  Thank you for contributing to the Coding Train logo repository!
+
+If you would like assistance or have a question, feel free to open an issue or ask in the Coding Train Discord.  We would be happy to assist you!
 
    Please add your variation below in the following format:
 
