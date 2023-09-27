@@ -7,7 +7,7 @@ function setup() {
 
 function draw() {
   background(255);
-  
+
   strokeWeight(11.6);
   stroke("#70327E");
   line(103, 178, 103, 137);
@@ -42,6 +42,6 @@ function draw() {
 
   line(272, 236, 221, 236);
 
-  //Remove to allow Animation
+  // Remove to allow Animation
   noLoop();
 }
