@@ -41,6 +41,7 @@ function draw() {
   line(227, 178, 227, 213);
 
   line(272, 236, 221, 236);
-  
+
+  //Remove to allow Animation
   noLoop();
 }
