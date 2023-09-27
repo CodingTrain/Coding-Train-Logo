@@ -1,13 +1,14 @@
 function setup() {
   createCanvas(400, 400);
-  strokeWeight(11.6);
   strokeCap(ROUND);
   strokeJoin(ROUND);
+  noFill();
 }
 
 function draw() {
   background(255);
 
+  strokeWeight(11.6);
   stroke("#70327E");
   line(103, 178, 103, 137);
   line(103, 137, 90, 137);
@@ -25,15 +26,12 @@ function draw() {
   line(289, 237, 305, 195);
   line(305, 195, 289, 158);
 
-  noFill();
   stroke("#70327E");
   circle(140, 235, 53 * 2);
 
-  stroke("#30C5F3");
   strokeWeight(11.2);
+  stroke("#30C5F3");
   circle(221, 270, 18 * 2);
-
-  strokeWeight(11.1);
   circle(272, 270, 18 * 2);
 
   stroke("#F89E4F");
