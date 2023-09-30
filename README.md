@@ -20,7 +20,8 @@ If you would like assistance or have a question, feel free to open an issue or a
    ```md
    - [**Title**](link-to-sketch) _by Author_ <br>
      Description (optional)
-     <!-- Screenshot / GIF / Video (add image files in `variations/`, optional) -->
+     <!-- Screenshot / GIF / Video (add image files in `variations/`, optional.
+      NOTE: A blank line or comment between Description and Image is important for correct formating) -->
      <img src="variations/your-variation-author.png" alt="Your Variation" width="300px">
    ```
 
@@ -34,7 +35,14 @@ If you would like assistance or have a question, feel free to open an issue or a
 
 - [**Animated Logo**](https://editor.p5js.org/funplanet/sketches/8zZKqiyV4) _by Dipam Sen_ <br>
   Animated the path of the logo by interpolating it using a cubic easing function.
+  
   <img src="variations/animated-logo-dipamsen.gif" alt="Animated Logo" width="300px">
+
+
+- [**3D Printable Challenge Coin**](https://github.com/dansmindspace/Challenge-Coins/tree/main/The%20Coding%20Train) _by Dan TheLostSorcerer_ <br>
+  A 3D Printable Challenge Coin I was inspired to create.
+  
+  ![The Coding Train - Challenge Coin Rotating GIF](https://github.com/dansmindspace/Challenge-Coins/blob/656f0e0afdb561f0acc0b933e2d47c0a5af0802c/The%20Coding%20Train/CodingTrainChallengeCoin.gif)
 
 ## Ports
 
