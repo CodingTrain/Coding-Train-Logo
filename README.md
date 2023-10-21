@@ -48,6 +48,11 @@ If you would like assistance or have a question, feel free to open an issue or a
   Moving train logo with particle system smoke.
   <img src="variations/moving_train.gif" alt="Moving Logo with Smoke" width="600px">
 
+- [**3D Logo**](https://editor.p5js.org/kfahn/sketches/baNkdJdBE) _by Kathy McGuiness_<br>
+  Coding Train logo rendered in 3D using p5.Geometry
+  <br>
+  <img src="variations/3d-logo.gif" alt="3D logo" width="300px">
+
 ## Ports
 
 - [**Processing**](./ports/processing/) _by Kai Tabuchi_
