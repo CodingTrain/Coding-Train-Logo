@@ -44,6 +44,10 @@ If you would like assistance or have a question, feel free to open an issue or a
   
   ![The Coding Train - Challenge Coin Rotating GIF](https://github.com/dansmindspace/Challenge-Coins/blob/656f0e0afdb561f0acc0b933e2d47c0a5af0802c/The%20Coding%20Train/CodingTrainChallengeCoin.gif)
 
+- [**Moving with Smoke**](https://editor.p5js.org/kfahn/sketches/6tpczaeuS) _by Kathy McGuiness_<br> 
+  Moving train logo with particle system smoke.
+  <img src="variations/moving_train.gif" alt="Moving Logo with Smoke" width="600px">
+
 ## Ports
 
 - [**Processing**](./ports/processing/) _by Kai Tabuchi_
